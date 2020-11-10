@@ -32,7 +32,7 @@ pages = "101817",
 year = "2021",
 issn = "1361-8415",
 doi = "https://doi.org/10.1016/j.media.2020.101817",
-author = "Yunzhi Huang and Sahar Ahmad and Jingfan Fan and Dinggang Shen and Pew-Thian Yap",
+author = "Yunzhi Huang and Sahar Ahmad and Jingfan Fan and Dinggang Shen and Pew-Thian Yap"
 }
 ```
 ## Acknowledgments
