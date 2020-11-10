@@ -5,6 +5,9 @@ We present a difficulty-aware model based on an attention mechanism to automatic
 
 ![Framework](./imgs/framework.png)
 
+## Difficulty-aware Patch Selection
+![Patchselec](./imgs/patch_selection.png)
+
 ## Dataset
 1. [LONI40](http://www.loni.usc.edu/atlases/Atlas_Detail.php?atlas_id=12)
 2. [IBSR18](https://www.nitrc.org/projects/ibsr/)
