@@ -6,7 +6,7 @@ We present a difficulty-aware model based on an attention mechanism to automatic
 ![Framework](./imgs/framework.png)
 
 ## Dataset
-1. [LPBA40](http://www.loni.usc.edu/atlases/Atlas_Detail.php?atlas_id=12)
+1. [LONI40](http://www.loni.usc.edu/atlases/Atlas_Detail.php?atlas_id=12)
 2. [IBSR18](https://www.nitrc.org/projects/ibsr/)
 3. [CUMC12](https://www.synapse.org/#!Synapse:syn3207203)
 4. [MGH10](https://www.synapse.org/#!Synapse:syn3207203)
