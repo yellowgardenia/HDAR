@@ -16,7 +16,10 @@ We present a difficulty-aware model based on an attention mechanism to automatic
 
 ## Comparsion with State-of-the-Art Methods
 ### Example registration results given by the D. Demons, LCC-Demons, SyN, and HDAR.
-![Result](./imgs/selfie_results.jpg)
+![Result](./imgs/traditional_comparisons.png)
+
+### Comparisons with VoxelMorph
+![Result](./imgs/singlescale_comparisons.png)
 
 ## Installation
 This code requires Tensorflow-GPU 1.14, TensorLayer 1.10 and Python 3.6.
